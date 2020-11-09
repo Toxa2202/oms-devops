@@ -18,9 +18,9 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="hibernate_test.cfg.xml" />
-          <unit-entry name="mySessionFactory" />
-          <unit-entry name="src:main:webapp:WEB-INF:hibernate.cfg.xml" />
+          <unit-entry name="hibernate_test.cfg.xml" value="b4665a4b-60af-4982-a278-6ee30923e80b" />
+          <unit-entry name="mySessionFactory" value="b4665a4b-60af-4982-a278-6ee30923e80b" />
+          <unit-entry name="src:main:webapp:WEB-INF:hibernate.cfg.xml" value="b4665a4b-60af-4982-a278-6ee30923e80b" />
         </datasource-map>
         <naming-strategy-map />
         <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" />
@@ -54,10 +54,10 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-support:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:3.0.5.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.roo:org.springframework.roo.annotations:1.3.1.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.commons:commons-lang3:3.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-io:commons-io:2.4" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-codec:commons-codec:1.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.roo:org.springframework.roo.annotations:1.3.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.8" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.6.9" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.5.10" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:jcl-over-slf4j:1.5.10" level="project" />

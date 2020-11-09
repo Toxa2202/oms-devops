@@ -32,8 +32,8 @@ import com.softserveinc.edu.oms.web.order.OrderSortProperties.SortPropertiesValu
 // @SessionAttributes(value = OrderController.SEARCH_FILTER)
 public class OrderController {
 
-	protected static final String SEARCH_FILTER = "searchFilter";
-	protected static final String SORT_PROPERTIES = "sortProperties";
+	private static final String SEARCH_FILTER = "searchFilter";
+	private static final String SORT_PROPERTIES = "sortProperties";
 	private static final Integer PAGE_SIZE = 2;
 
 	@Autowired

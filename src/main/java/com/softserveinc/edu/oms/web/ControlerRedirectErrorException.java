@@ -12,7 +12,7 @@ public class ControlerRedirectErrorException extends ControlerErrorException {
 	private String redirectUrl;
 
 	public ControlerRedirectErrorException() {
-		super("no contrpler name", "no error message");
+		super("no controler name", "no error message");
 		this.redirectUrl = "no redirect url";
 	}
 

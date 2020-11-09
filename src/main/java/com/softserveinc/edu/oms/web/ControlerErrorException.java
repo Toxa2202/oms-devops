@@ -17,7 +17,7 @@ public class ControlerErrorException extends Exception {
 	public ControlerErrorException() {
 		super();
 		this.exceptionMessage = "no error message";
-		this.controlerName = "no contrpler name";
+		this.controlerName = "no controler name";
 	}
 
 	public ControlerErrorException(String controlerName, String exceptionMessage) {

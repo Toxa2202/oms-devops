@@ -22,7 +22,7 @@ import com.softserveinc.edu.oms.persistence.dao.concrete.RoleDao;
 import com.softserveinc.edu.oms.persistence.dao.concrete.UserDao;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(locations = { "classpath:testApplicationContex.xml" })
+@ContextConfiguration(locations = {"classpath:testApplicationContext.xml"})
 @TransactionConfiguration
 @Transactional
 public class CleanUpDBTestCase {

@@ -23,9 +23,7 @@
 	<!-- Hibernate session factory -->
 	<bean id="mySessionFactory"
 		class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
-		<property name="configLocation">
-			<value>/WEB-INF/hibernate.cfg.xml</value>
-		</property>
+		<property name="configLocation" value="/WEB-INF/hibernate.cfg.xml"/>
 	</bean>
 
 	<!-- Validators -->

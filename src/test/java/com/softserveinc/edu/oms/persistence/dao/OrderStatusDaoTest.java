@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.softserveinc.edu.oms.domain.entities.OrderStatus;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration(locations = { "classpath:testApplicationContex.xml" })
+@ContextConfiguration(locations = {"classpath:testApplicationContext.xml"})
 @TransactionConfiguration
 @Transactional
 public class OrderStatusDaoTest extends CleanUpDBTestCase {

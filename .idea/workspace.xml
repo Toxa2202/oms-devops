@@ -7,41 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cc2b2a6-d3d7-4bab-a894-9a39b9e4007b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_roo_org_springframework_roo_annotations_1_3_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/messages/messages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/edu_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/edu_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_roo_org_springframework_roo_annotations_1_3_1_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/edu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/OMSdate.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/OMSdate.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/OMSsize.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/OMSsize.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/ControlerErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/ControlerErrorException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/order/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softserveinc/edu/oms/web/order/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/oms-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/oms-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles/tabs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles/tabs.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softserveinc/edu/oms/persistence/dao/CleanUpDBTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softserveinc/edu/oms/persistence/dao/CleanUpDBTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/softserveinc/edu/oms/persistence/dao/OrderStatusDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/softserveinc/edu/oms/persistence/dao/OrderStatusDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testApplicationContex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/OMS.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/OMS.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/ControlerErrorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/ControlerErrorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/order/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/softserveinc/edu/oms/web/order/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/ControlerErrorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/ControlerErrorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/ControlerRedirectErrorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/order/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/softserveinc/edu/oms/web/order/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/oms-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/oms-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/softserveinc/edu/oms/persistence/dao/CleanUpDBTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/softserveinc/edu/oms/persistence/dao/CleanUpDBTestCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/softserveinc/edu/oms/persistence/dao/OrderStatusDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/softserveinc/edu/oms/persistence/dao/OrderStatusDaoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testApplicationContex.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -262,7 +230,7 @@
       <workItem from="1604917788757" duration="2980000" />
       <workItem from="1604935874706" duration="7417000" />
       <workItem from="1604943914495" duration="454000" />
-      <workItem from="1604944428004" duration="3528000" />
+      <workItem from="1604944428004" duration="4541000" />
     </task>
     <servers />
   </component>

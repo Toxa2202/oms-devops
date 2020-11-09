@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cc2b2a6-d3d7-4bab-a894-9a39b9e4007b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -230,7 +229,7 @@
       <workItem from="1604917788757" duration="2980000" />
       <workItem from="1604935874706" duration="7417000" />
       <workItem from="1604943914495" duration="454000" />
-      <workItem from="1604944428004" duration="4541000" />
+      <workItem from="1604944428004" duration="5135000" />
     </task>
     <servers />
   </component>

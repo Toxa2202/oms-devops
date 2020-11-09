@@ -22,9 +22,9 @@
  -->
 		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/oms</property>
-		<property name="hibernate.connection.username">postgres</property>
-		<property name="hibernate.connection.password">postgres</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/d987d94b7oe7pm</property>
+		<property name="hibernate.connection.username">xaeztolaauzvkj</property>
+		<property name="hibernate.connection.password">4ebec54dc56132fd12c15c48635722fa4321ae26f405ebd0ea3c456b6d3b774e</property>
 
 
 		<!--		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/oms</property>-->

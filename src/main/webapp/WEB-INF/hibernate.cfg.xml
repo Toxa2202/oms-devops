@@ -5,9 +5,9 @@
 	<session-factory>
 		<!-- /MYPC:1433/Blog;instance=SQLEXPRESS local connection properties -->
 <!-- 		<property name="hibernate.connection.driver_class">net.sourceforge.jtds.jdbc.Driver</property> -->
-<!--		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>-->
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 <!-- 		<property name="dialect">org.hibernate.dialect.SQLServerDialect</property> -->
-<!--        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>-->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 		<!--<property name="hibernate.connection.url">jdbc:jtds:sqlserver://streamer2005.softserveinc.com/_055_OMS;instance=tc;</property>-->
 		<!--<property name="hibernate.connection.url">jdbc:jtds:sqlserver://CLASS49/_112_OMS;instance=SQLEXPRESS;</property>-->
 <!--
@@ -20,16 +20,9 @@
 		<property name="hibernate.connection.username">db207</property>
 		<property name="hibernate.connection.password">db207</property>
  -->
-		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
-		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/d987d94b7oe7pm</property>
-		<property name="hibernate.connection.username">xaeztolaauzvkj</property>
-		<property name="hibernate.connection.password">4ebec54dc56132fd12c15c48635722fa4321ae26f405ebd0ea3c456b6d3b774e</property>
-
-
-		<!--		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/oms</property>-->
-<!--		<property name="hibernate.connection.username">root</property>-->
-<!--		<property name="hibernate.connection.password">KindGeek!</property>-->
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/oms</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">KindGeek!</property>
  
 		<!-- property name="hibernate.hbm2ddl.auto">create</property>  -->
 		<property name="hibernate.hbm2ddl.auto">update</property>

@@ -8,6 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5cc2b2a6-d3d7-4bab-a894-9a39b9e4007b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/OMS.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/OMS.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/edu-1.0.0-BUILD-SNAPSHOT/WEB-INF/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +231,7 @@
       <workItem from="1604917788757" duration="2980000" />
       <workItem from="1604935874706" duration="7417000" />
       <workItem from="1604943914495" duration="454000" />
-      <workItem from="1604944428004" duration="8164000" />
+      <workItem from="1604944428004" duration="10502000" />
     </task>
     <servers />
   </component>

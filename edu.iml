@@ -112,5 +112,15 @@
     <orderEntry type="library" name="Maven: eclipse:jdtcore:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-taglibs:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-acl:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jasper:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-el-api:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt:ecj:3.12.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jasper-el:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-api:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util-scan:8.5.45" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util:8.5.45" level="project" />
   </component>
 </module>

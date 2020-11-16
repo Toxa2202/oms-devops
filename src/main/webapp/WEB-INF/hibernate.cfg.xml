@@ -5,9 +5,9 @@
 	<session-factory>
 		<!-- /MYPC:1433/Blog;instance=SQLEXPRESS local connection properties -->
 <!-- 		<property name="hibernate.connection.driver_class">net.sourceforge.jtds.jdbc.Driver</property> -->
-		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+
 <!-- 		<property name="dialect">org.hibernate.dialect.SQLServerDialect</property> -->
-        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+
 		<!--<property name="hibernate.connection.url">jdbc:jtds:sqlserver://streamer2005.softserveinc.com/_055_OMS;instance=tc;</property>-->
 		<!--<property name="hibernate.connection.url">jdbc:jtds:sqlserver://CLASS49/_112_OMS;instance=SQLEXPRESS;</property>-->
 <!--
@@ -20,10 +20,23 @@
 		<property name="hibernate.connection.username">db207</property>
 		<property name="hibernate.connection.password">db207</property>
  -->
+<!--        OLD CREDENTIALS-->
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 		<property name="hibernate.connection.url">jdbc:mysql://us-cdbr-east-02.cleardb.com:3306/heroku_af7a12f6afab141</property>
 		<property name="hibernate.connection.username">bab75a6835e946</property>
 		<property name="hibernate.connection.password">4f5b1f48</property>
- 
+
+<!--        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/oms</property>-->
+<!--        <property name="hibernate.connection.username">toxa</property>-->
+<!--        <property name="hibernate.connection.password">password</property>-->
+
+<!--        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>-->
+<!--        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>-->
+<!--        <property name="hibernate.connection.username">nobkpjtzfirfwy</property>-->
+<!--        <property name="hibernate.connection.password">41642af0e497658f4b5029818281e0956462887f4dfc7fc8f20af951e023549f</property>-->
+<!--        <property name="hibernate.connection.url">jdbc:postgresql://ec2-54-172-219-218.compute-1.amazonaws.com:5432/d15evqv83lqui3</property>-->
+
 		<!-- property name="hibernate.hbm2ddl.auto">create</property>  -->
 		<property name="hibernate.hbm2ddl.auto">update</property>
 

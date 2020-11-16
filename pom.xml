@@ -227,7 +227,6 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
-<<<<<<< HEAD
 		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 <!--		<dependency>-->
 <!--			<groupId>org.postgresql</groupId>-->
@@ -235,8 +234,6 @@
 <!--			<version>42.0.0</version>-->
 <!--		</dependency>-->
 
-=======
->>>>>>> 29c39319a5c54fce2ec0256ddeaf830c9515f771
 	</dependencies>
 	<repositories>
 		<!-- For testing against latest Spring snapshots -->

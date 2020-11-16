@@ -186,7 +186,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.17</version>
+			<version>8.0.22</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -227,6 +227,16 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
+<<<<<<< HEAD
+		<!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+<!--		<dependency>-->
+<!--			<groupId>org.postgresql</groupId>-->
+<!--			<artifactId>postgresql</artifactId>-->
+<!--			<version>42.0.0</version>-->
+<!--		</dependency>-->
+
+=======
+>>>>>>> 29c39319a5c54fce2ec0256ddeaf830c9515f771
 	</dependencies>
 	<repositories>
 		<!-- For testing against latest Spring snapshots -->
@@ -245,7 +255,7 @@
 		<repository>
 			<id>org.springframework.maven.milestone</id>
 			<name>Spring Maven Milestone Repository</name>
-			<url>http://maven.springframework.org/milestone</url>
+			<url>https://maven.springframework.org/milestone</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>
